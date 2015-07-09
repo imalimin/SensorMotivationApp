@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensor Motivation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sensor_setting">SensorSetting</string>
+    <string name="gravity_sensor_wake_up">重力感应唤醒</string>
+    <string name="gravity_sensor_sensitivity">重力感应灵敏度：</string>
+
+</resources>
